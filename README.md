@@ -86,5 +86,6 @@ The project implements **12 fraud detection patterns**:
 ```text
 RedFlag-The-Fraud-Files/
 │
+├── 📄 redflag_transactions.sql
 ├── 📄 redflag_fraud_detection.sql
 └── 📘 README.md
